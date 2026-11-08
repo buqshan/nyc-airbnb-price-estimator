@@ -1,0 +1,221 @@
+neighbourhood_group,neighbourhood,distance_to_midtown
+Bronx,Allerton,16.1
+Bronx,Baychester,17.5
+Bronx,Belmont,13.7
+Bronx,Bronxdale,14.7
+Bronx,Castle Hill,13.3
+Bronx,City Island,19.5
+Bronx,Claremont Village,11.1
+Bronx,Clason Point,12.5
+Bronx,Co-op City,18.1
+Bronx,Concourse,9.2
+Bronx,Concourse Village,9.8
+Bronx,East Morrisania,11.4
+Bronx,Eastchester,18.6
+Bronx,Edenwald,19.1
+Bronx,Fieldston,16.4
+Bronx,Fordham,14.1
+Bronx,Highbridge,9.8
+Bronx,Hunts Point,10.4
+Bronx,Kingsbridge,15.2
+Bronx,Longwood,9.9
+Bronx,Melrose,9.3
+Bronx,Morris Heights,11.7
+Bronx,Morris Park,15.3
+Bronx,Morrisania,10.3
+Bronx,Mott Haven,8.0
+Bronx,Mount Eden,11.1
+Bronx,Mount Hope,12.1
+Bronx,North Riverdale,18.1
+Bronx,Norwood,15.8
+Bronx,Olinville,17.3
+Bronx,Parkchester,13.7
+Bronx,Pelham Bay,16.4
+Bronx,Pelham Gardens,16.9
+Bronx,Port Morris,7.3
+Bronx,Riverdale,15.5
+Bronx,Schuylerville,15.4
+Bronx,Soundview,12.8
+Bronx,Spuyten Duyvil,14.8
+Bronx,Throgs Neck,15.7
+Bronx,Tremont,12.5
+Bronx,Unionport,13.5
+Bronx,University Heights,12.7
+Bronx,Van Nest,13.6
+Bronx,Wakefield,18.8
+Bronx,West Farms,12.9
+Bronx,Westchester Square,14.8
+Bronx,Williamsbridge,17.3
+Bronx,Woodlawn,18.6
+Brooklyn,Bath Beach,17.2
+Brooklyn,Bay Ridge,14.4
+Brooklyn,Bedford-Stuyvesant,8.7
+Brooklyn,Bensonhurst,16.3
+Brooklyn,Bergen Beach,16.3
+Brooklyn,Boerum Hill,8.0
+Brooklyn,Borough Park,13.3
+Brooklyn,Brighton Beach,20.1
+Brooklyn,Brooklyn Heights,7.1
+Brooklyn,Brownsville,11.9
+Brooklyn,Bushwick,8.5
+Brooklyn,Canarsie,15.0
+Brooklyn,Carroll Gardens,8.6
+Brooklyn,Clinton Hill,8.1
+Brooklyn,Cobble Hill,7.9
+Brooklyn,Columbia St,8.3
+Brooklyn,Coney Island,20.3
+Brooklyn,Crown Heights,10.0
+Brooklyn,Cypress Hills,12.1
+Brooklyn,DUMBO,6.1
+Brooklyn,Downtown Brooklyn,7.0
+Brooklyn,Dyker Heights,14.9
+Brooklyn,East Flatbush,12.7
+Brooklyn,East New York,13.1
+Brooklyn,Flatbush,12.7
+Brooklyn,Flatlands,15.3
+Brooklyn,Fort Greene,7.7
+Brooklyn,Fort Hamilton,16.0
+Brooklyn,Gowanus,8.9
+Brooklyn,Gravesend,18.1
+Brooklyn,Greenpoint,4.5
+Brooklyn,Kensington,12.9
+Brooklyn,Manhattan Beach,20.1
+Brooklyn,Midwood,15.5
+Brooklyn,Mill Basin,17.3
+Brooklyn,Navy Yard,6.7
+Brooklyn,Park Slope,9.3
+Brooklyn,Prospect Heights,9.0
+Brooklyn,Prospect-Lefferts Gardens,11.3
+Brooklyn,Red Hook,9.2
+Brooklyn,Sea Gate,20.2
+Brooklyn,Sheepshead Bay,18.1
+Brooklyn,South Slope,10.4
+Brooklyn,Sunset Park,12.0
+Brooklyn,Vinegar Hill,6.3
+Brooklyn,Williamsburg,5.8
+Brooklyn,Windsor Terrace,11.5
+Manhattan,Battery Park City,6.0
+Manhattan,Chelsea,1.9
+Manhattan,Chinatown,4.8
+Manhattan,Civic Center,5.2
+Manhattan,East Harlem,5.6
+Manhattan,East Village,3.5
+Manhattan,Financial District,6.0
+Manhattan,Flatiron District,1.9
+Manhattan,Gramercy,2.5
+Manhattan,Greenwich Village,3.4
+Manhattan,Harlem,7.4
+Manhattan,Hell's Kitchen,0.8
+Manhattan,Inwood,13.0
+Manhattan,Kips Bay,1.9
+Manhattan,Little Italy,4.5
+Manhattan,Lower East Side,4.3
+Manhattan,Marble Hill,14.5
+Manhattan,Midtown,1.3
+Manhattan,Morningside Heights,5.8
+Manhattan,Murray Hill,1.4
+Manhattan,NoHo,3.5
+Manhattan,Nolita,4.1
+Manhattan,Roosevelt Island,3.1
+Manhattan,SoHo,4.0
+Manhattan,Stuyvesant Town,2.9
+Manhattan,Theater District,0.3
+Manhattan,Tribeca,4.9
+Manhattan,Two Bridges,5.2
+Manhattan,Upper East Side,3.2
+Manhattan,Upper West Side,3.6
+Manhattan,Washington Heights,10.4
+Manhattan,West Village,3.1
+Queens,Arverne,24.6
+Queens,Astoria,5.6
+Queens,Bay Terrace,17.4
+Queens,Bayside,18.2
+Queens,Bayswater,25.4
+Queens,Belle Harbor,23.3
+Queens,Bellerose,22.1
+Queens,Breezy Point,23.5
+Queens,Briarwood,15.5
+Queens,Cambria Heights,22.3
+Queens,College Point,12.3
+Queens,Corona,10.6
+Queens,Ditmars Steinway,6.6
+Queens,Douglaston,21.2
+Queens,East Elmhurst,9.2
+Queens,Edgemere,25.5
+Queens,Elmhurst,9.3
+Queens,Far Rockaway,26.4
+Queens,Flushing,13.8
+Queens,Forest Hills,12.3
+Queens,Fresh Meadows,16.6
+Queens,Glendale,10.2
+Queens,Hollis,19.1
+Queens,Holliswood,18.6
+Queens,Howard Beach,15.5
+Queens,Jackson Heights,8.7
+Queens,Jamaica,18.4
+Queens,Jamaica Estates,17.3
+Queens,Jamaica Hills,16.5
+Queens,Kew Gardens,14.2
+Queens,Kew Gardens Hills,14.4
+Queens,Laurelton,22.3
+Queens,Little Neck,21.6
+Queens,Long Island City,4.1
+Queens,Maspeth,7.9
+Queens,Middle Village,10.2
+Queens,Neponsit,23.5
+Queens,Ozone Park,14.5
+Queens,Queens Village,21.0
+Queens,Rego Park,11.1
+Queens,Richmond Hill,15.0
+Queens,Ridgewood,9.1
+Queens,Rockaway Beach,23.9
+Queens,Rosedale,23.9
+Queens,South Ozone Park,18.5
+Queens,Springfield Gardens,21.3
+Queens,St. Albans,20.1
+Queens,Sunnyside,5.7
+Queens,Whitestone,14.2
+Queens,Woodhaven,13.0
+Queens,Woodside,7.1
+Staten Island,Arden Heights,28.4
+Staten Island,Arrochar,19.7
+Staten Island,"Bay Terrace, Staten Island",26.4
+Staten Island,Bull's Head,23.4
+Staten Island,Castleton Corners,19.6
+Staten Island,Clifton,17.8
+Staten Island,Concord,19.1
+Staten Island,Dongan Hills,21.8
+Staten Island,Eltingville,28.2
+Staten Island,Emerson Hill,20.8
+Staten Island,Graniteville,21.4
+Staten Island,Grant City,22.5
+Staten Island,Great Kills,26.7
+Staten Island,Grymes Hill,18.5
+Staten Island,Howland Hook,21.2
+Staten Island,Huguenot,28.9
+Staten Island,Lighthouse Hill,23.8
+Staten Island,Mariners Harbor,20.1
+Staten Island,Midland Beach,22.4
+Staten Island,New Brighton,15.6
+Staten Island,New Dorp,23.6
+Staten Island,New Dorp Beach,23.6
+Staten Island,New Springville,24.3
+Staten Island,Oakwood,24.7
+Staten Island,Port Richmond,18.6
+Staten Island,Prince's Bay,31.9
+Staten Island,Randall Manor,18.5
+Staten Island,Richmondtown,23.9
+Staten Island,Rosebank,17.5
+Staten Island,Rossville,30.1
+Staten Island,Shore Acres,18.1
+Staten Island,Silver Lake,17.7
+Staten Island,South Beach,20.2
+Staten Island,St. George,15.1
+Staten Island,Stapleton,15.8
+Staten Island,Todt Hill,19.8
+Staten Island,Tompkinsville,16.2
+Staten Island,Tottenville,35.1
+Staten Island,West Brighton,17.7
+Staten Island,Westerleigh,20.3
+Staten Island,Willowbrook,21.6
+Staten Island,Woodrow,30.3
