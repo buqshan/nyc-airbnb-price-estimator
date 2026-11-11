@@ -2,7 +2,7 @@
 
 A small Streamlit web app that estimates a **fair nightly price** for an Airbnb listing in New York City and shows a **typical price range** around that estimate.
 
-**Live app:** [add your Streamlit link here]
+**Live app:** https://nyc-airbnb-price-buqshan.streamlit.app/
 
 > Built by **Abdullah A. Buqshan** as a personal learning artefact for the *Machine Learning* module of the MSc Artificial Intelligence at the University of Essex Online (2026).
 
@@ -59,8 +59,8 @@ The app returns:
 
 | Version | Changes |
 |---|---|
-| **v1** | First release: original cleaned dataset, single price estimate |
-| **v2** | Updated cleaned dataset (about 48,900 listings); host-grouped evaluation; HistGradientBoosting model; new **typical price range** from quantile regression; borough and neighbourhood lookup |
+| **v1** | First release (HistGradientBoosting): earlier cleaned dataset (48,396 listings), random 80/20 split, ln(1 + price) target; test R² 0.58, MAE $46.4; range shown as ± $46 |
+| **v2** | Updated cleaned dataset (about 48,900 listings); host-grouped evaluation (unseen hosts); ln(price) target; new **typical price range** from quantile regression; borough and neighbourhood lookup |
 
 ---
 
