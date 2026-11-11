@@ -31,5 +31,5 @@ if st.button("Estimate price"):
     high = np.exp(bundle['high'].predict(X)[0])
     low, high = min(low, price), max(high, price)   # keep the estimate inside the range
     st.metric("Estimated fair price per night", f"${price:,.0f}")
-    st.caption(f"Typical range: **${low:,.0f} – ${high:,.0f}** "
+    st.caption(f"Typical range: **\\${low:,.0f} – \\${high:,.0f}** "
                "(the middle 50% of similar listings in 2019).")
