@@ -1,4 +1,4 @@
-neighbourhood_group,neighbourhood,distance_to_midtown
+neighbourhood_group,neighbourhood,distance_to_midtown_km
 Bronx,Allerton,16.1
 Bronx,Baychester,17.5
 Bronx,Belmont,13.7
@@ -94,7 +94,7 @@ Brooklyn,Sunset Park,12.0
 Brooklyn,Vinegar Hill,6.3
 Brooklyn,Williamsburg,5.8
 Brooklyn,Windsor Terrace,11.5
-Manhattan,Battery Park City,6.0
+Manhattan,Battery Park City,5.9
 Manhattan,Chelsea,1.9
 Manhattan,Chinatown,4.8
 Manhattan,Civic Center,5.2
@@ -120,7 +120,7 @@ Manhattan,Roosevelt Island,3.1
 Manhattan,SoHo,4.0
 Manhattan,Stuyvesant Town,2.9
 Manhattan,Theater District,0.3
-Manhattan,Tribeca,4.9
+Manhattan,Tribeca,4.8
 Manhattan,Two Bridges,5.2
 Manhattan,Upper East Side,3.2
 Manhattan,Upper West Side,3.6
@@ -187,6 +187,7 @@ Staten Island,Concord,19.1
 Staten Island,Dongan Hills,21.8
 Staten Island,Eltingville,28.2
 Staten Island,Emerson Hill,20.8
+Staten Island,Fort Wadsworth,19.2
 Staten Island,Graniteville,21.4
 Staten Island,Grant City,22.5
 Staten Island,Great Kills,26.7
@@ -202,7 +203,7 @@ Staten Island,New Dorp Beach,23.6
 Staten Island,New Springville,24.3
 Staten Island,Oakwood,24.7
 Staten Island,Port Richmond,18.6
-Staten Island,Prince's Bay,31.9
+Staten Island,Prince's Bay,31.6
 Staten Island,Randall Manor,18.5
 Staten Island,Richmondtown,23.9
 Staten Island,Rosebank,17.5
@@ -210,7 +211,7 @@ Staten Island,Rossville,30.1
 Staten Island,Shore Acres,18.1
 Staten Island,Silver Lake,17.7
 Staten Island,South Beach,20.2
-Staten Island,St. George,15.1
+Staten Island,St. George,15.0
 Staten Island,Stapleton,15.8
 Staten Island,Todt Hill,19.8
 Staten Island,Tompkinsville,16.2
